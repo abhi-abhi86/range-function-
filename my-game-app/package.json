@@ -1,0 +1,29 @@
+{
+  "name": "my-game-app",
+  "version": "1.0.0",
+  "description": "A simple game application built with TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-game-app.git"
+  },
+  "keywords": [
+    "game",
+    "typescript",
+    "canvas"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

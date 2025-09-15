@@ -1,0 +1,26 @@
+{
+  "name": "project-last-stand",
+  "version": "1.0.0",
+  "description": "A tactical 2D Battle Royale simulator focusing on realism and advanced gameplay mechanics.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  },
+  "keywords": [
+    "battle royale",
+    "tactical",
+    "2D",
+    "game"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
